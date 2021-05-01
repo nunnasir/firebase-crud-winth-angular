@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fir-crud-95ae4": {
+      "hosting": {
+        "firebase-crud": [
+          "fir-crud-95ae4"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fir-crud-95ae4"
+  }
+}
